@@ -1,0 +1,8 @@
+POST http://localhost:3000/add-new-info
+Content-Type: application/json
+
+{
+    "book_name":"Basics of Java",
+    "name_of_issuer":"Shuvam",
+    "due_date": "31-12-2019"
+}
